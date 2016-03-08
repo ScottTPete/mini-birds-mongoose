@@ -1,0 +1,25 @@
+{
+  "name": "mini-birds-mongoose",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to solidify your understanding of Mongoose as an ORM for MongoDB.  By the end of the project, you should know how to set up a Mongoose model and perform CRUD operations using that model.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevMountain/mini-birds-mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevMountain/mini-birds-mongoose/issues"
+  },
+  "homepage": "https://github.com/DevMountain/mini-birds-mongoose#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.6"
+  }
+}
